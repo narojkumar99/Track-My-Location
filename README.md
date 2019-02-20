@@ -28,7 +28,7 @@ I created this project just for learning puposes particularly about firebase (fi
 
 - The first device get continous location update from gps, network etc. then
 - Write and update the location data to a specific firebase firestore document
-- Last, the second device read that firebase firestore document and show the marker in that location
+- Last, the second device read that firebase firestore documents and show the marker in that location
 
 
 ***
